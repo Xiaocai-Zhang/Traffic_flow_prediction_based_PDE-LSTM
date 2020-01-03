@@ -9,3 +9,8 @@
 ```
 python lstm_test_15m.py
 ```
+## Train
+**Run the .py code file in the corresponding data set fold under the train fold. For example,**
+```
+python delstm_15m.py
+```
