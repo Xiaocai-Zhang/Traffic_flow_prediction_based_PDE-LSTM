@@ -1,4 +1,4 @@
-# Traffic flow prediction based on PDELSTM
+# Traffic Flow Prediction Based on PDE-LSTM Model
 ## Requirement
 - Tensorflow==1.13.1
 - Pandas==0.24.1
