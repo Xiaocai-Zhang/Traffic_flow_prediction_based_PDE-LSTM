@@ -1,6 +1,11 @@
-# Traffic flow prediction based PDELSTM
+# Traffic flow prediction based on PDELSTM
 ## Requirement
-- Tensorflow===1.13.1
+- Tensorflow==1.13.1
 - Pandas==0.24.1
 - Numpy==1.16.1
 - Scipy==1.2.1
+## Test
+**Run the .py code file in the corresponding data set fold under the test fold. For example,**
+```
+python lstm_test_15m.py
+```
