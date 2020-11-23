@@ -1,4 +1,4 @@
-# Parallel Differential Evolution Based LSTM Recurrent Neural Network for Traffic Flow Prediction: A Deep Learning Approach
+# Differential Evolution Based LSTM Recurrent Neural Network for Traffic Flow Prediction: A Deep Learning Approach
 ## Requirement
 - Tensorflow==1.13.1
 - Pandas==0.25.1
